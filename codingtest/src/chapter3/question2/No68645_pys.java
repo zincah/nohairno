@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+public class No68645_pys {
     public int[] solution(int n) {
         int[][] matrix = new int[n][n];
 
